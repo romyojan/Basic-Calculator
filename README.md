@@ -1,2 +1,17 @@
-# calculator
-calculator using c++ with 4 operation (addition, subtraction, multiplication, division)
+
+# Basic Calculator
+
+I hope reading this will help you to understand how the following works:
+- Switch Statement
+- Declaring Int
+- Using Operation (Addition, Subtraction, Multiplication, and Division)
+
+Note: It's a C++ programming language.
+
+## Contact
+
+Email:
+- ador_romeojohn0105@gmail.com
+
+Facebook:
+- [Romeo John](https://www.facebook.com/RomeowJ05)
